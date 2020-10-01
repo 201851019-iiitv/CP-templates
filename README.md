@@ -1,2 +1,2 @@
 # CP-templates
-Different different competative programming  templates are available  
+Different different competative programming  templates are available here
